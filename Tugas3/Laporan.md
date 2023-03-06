@@ -20,9 +20,11 @@ Pastikan semua PC di meja anda mendapatkan IP address sesuai dengan gambar
 ## Catat IP address & ambil screenshot nya
 
 IP address: 192.168.10.244
+
 ![App Screenshot](https://via.placeholder.com/468x300?text=IP1)
 
 IP address: 192.168.10.243
+
 ![App Screenshot](https://via.placeholder.com/468x300?text=IP2)
 
 ## Akses Router RB3011 menggunakan winbox
@@ -36,9 +38,11 @@ akses router RB3011 menggunakan "winbox.exe" via wine yang telah terinstall
 Tambahkan routing table pada router sehingga bisa mengakses seluruh subnet pada 192.168.x.x
 
 Tabel Routing pada winbox
+
 ![App Screenshot](https://via.placeholder.com/468x300?text=Routingwinbox)
 
 Test ping pada komputer 192.168.x.x
+
 ![App Screenshot](https://via.placeholder.com/468x300?text=TestPing)
 
 ## Instalasi Virtualbox dan Ubuntu
