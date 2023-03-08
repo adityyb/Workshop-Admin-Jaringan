@@ -50,6 +50,9 @@ Test ping pada komputer 192.168.x.x
 Install virtualbox dengan menggunakan petunjuk yang ada pada debian copy virtual machine yang sudah ada sebelumnya.
 
 
+Ketika sudah menginstall virtualbox, setting virtual machine untuk menginstall ubuntu yang sudah disiapkan
+
+
 
 
 
