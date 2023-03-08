@@ -39,11 +39,11 @@ Tambahkan routing table pada router sehingga bisa mengakses seluruh subnet pada 
 
 Tabel Routing pada winbox
 
-![App Screenshot](https://via.placeholder.com/468x300?text=Routingwinbox)
+<img src="screenshot/routing.jpg">
 
 Test ping pada komputer 192.168.x.x
 
-![App Screenshot](https://via.placeholder.com/468x300?text=TestPing)
+<img src="screenshot/test ping.jpg">
 
 ## Instalasi Virtualbox dan Ubuntu
 
