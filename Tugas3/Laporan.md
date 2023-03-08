@@ -21,11 +21,11 @@ Pastikan semua PC di meja anda mendapatkan IP address sesuai dengan gambar
 
 IP address: 192.168.10.244
 
-![App Screenshot](https://via.placeholder.com/468x300?text=IP1)
+<img src="../Screenshots/IP1.jpg">
 
 IP address: 192.168.10.243
 
-![App Screenshot](https://via.placeholder.com/468x300?text=IP2)
+<img src="../Screenshots/IP2.jpg">
 
 ## Akses Router RB3011 menggunakan winbox
 
