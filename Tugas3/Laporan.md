@@ -21,17 +21,17 @@ Pastikan semua PC di meja anda mendapatkan IP address sesuai dengan gambar
 
 IP address: 192.168.10.244
 
-<img src="../Screenshots/IP1.jpg">
+<img src="screenshot/ip1.jpg">
 
 IP address: 192.168.10.243
 
-<img src="../Screenshots/IP2.jpg">
+<img src="screenshot/ip2.jpg">
 
 ## Akses Router RB3011 menggunakan winbox
 
 akses router RB3011 menggunakan "winbox.exe" via wine yang telah terinstall
 
-![App Screenshot](https://via.placeholder.com/468x300?text=Winbox)
+<img src="screenshot/routing.jpg">
 
 ## Routing
 
